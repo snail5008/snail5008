@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @snail5008
-- 👀 I’m interested in C/C++, Python
-- 🌱 I’m currently learning OpenGL
-- 💞️ I’m looking to collaborate on nothing
+Hi. idk.
 
 <!---
 snail5008/snail5008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
