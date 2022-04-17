@@ -1,4 +1,4 @@
-Hi. idk.
+All of my unfinished projects
 
 <!---
 snail5008/snail5008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
